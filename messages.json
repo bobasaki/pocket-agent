@@ -1,0 +1,231 @@
+{
+   "id": "msg_011CgH9cAihuF528EUtGp6hR",
+   "container": null,
+   "content": [
+      {
+         "citations": null,
+         "text": "Hi Ivan, nice to meet you. What can I help you with today? If you have a file in the project you'd like me to look at, just give me the path and I can read it.",
+         "type": "text"
+      }
+   ],
+   "diagnostics": null,
+   "model": "claude-haiku-5-5",
+   "role": "assistant",
+   "stop_details": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "type": "message",
+   "usage": {
+      "cache_creation": {
+         "ephemeral_1h_input_tokens": 0,
+         "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "inference_geo": "global",
+      "input_tokens": 430,
+      "output_tokens": 53,
+      "output_tokens_details": {
+         "thinking_tokens": 0
+      },
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "speed": "standard"
+   }
+}{
+   "id": "msg_011CgH9dRaSqwsw6catgnZWq",
+   "container": null,
+   "content": [
+      {
+         "signature": "CAQSkgYKEAgTGAI4AUIIdGhpbmtpbmcSDHmJPgTPYXRTos11kBoM6v6EnY/G5XxdU9ITIjD4EnZM/FrqHTNv9um0ZAy3mnlrdZAdCi40FCvf8xLYVljhTwbHpbE1TRR24lYsyvIqrwUA3OkuohqUjzTJlIA+3ZXgYe1FmYhhZc2Y5VJG9g9qiNx6z3jN8M0k6zxAyOodNT0Fj49XIeV9EamD4ksJ/sAYpPemvyEBD0Q6WAtq4nl/Lbv2d/mm3zv44Sq+n2v6LMjHfcOu/Ez1MV08CkQNMUysRY0RmdvEIPFEoTxbE0YNmsIffeLeBZSZed++M8wnP0lK0gEklAZAUtq6pWClNv4QEuyLQZaNeKcIVgBgl8pIWaqi5/GocYnsWwTRwkw+vT3nAWEc89CxyGaUrztxnCK13Bzd0KQv6BhoYLd9SH8m6C8/Ft5LgMXNlPN7+iOImQi0gsccH0reNWBiilB4DM1FVozgYJxtVntF163wFlGn2GPGJmxpPbRTAg6CjT6otWOMBHLK7Bl+FYG/WvBwcXxMn743huHVsnoqwuXU1r3foxCgAq35WmZ7eANFo0CKL0/SI2FtWswSJnjCQ4duPHvD6kJS+jIwgp63gA7Cn0pijldgCOE+yj8nO3K6FUqnsE4ors/Xmhf4LapoLiXIchA5EO4yQEnN7UztTeFcppLqYJcLojR92cwxqJ+bhDiMHq9h7CKzNC8WIhgI5lUweBc2DYOXaJSHco94dK3I5hhXKZlY/Qw+DeQBvuRXHHsnlsKkFnN9+dp2822iQrIpwstI/tw4AlWSwnjSl5vN5W8JEoZU0UbZ50zLD057qo76N18S6TFMpa1XdVqADwtoZOGyyHZcBqFnqd9eDHuwu7R86qNyuISghAnavqHnRr9FPEmcYrVyr7fG3tPb66beOGmWTEqm4CT+WPXFOtBSMh9R0xaU0stCqQw9x149W33KH3WQdpRAqCDvGLtxz1vhWaFoNRr52ne264Iwoj7jk1jmuqCNvuLfRgZBGPPKXyk+JO2igfNHoiyJ855eE7idbiUYAQ==",
+         "thinking": "",
+         "type": "thinking"
+      },
+      {
+         "citations": null,
+         "text": "I actually have a `read_file` tool, so I can read files in the project now. Give me a path relative to the project root, like `src/main.py`, and I'll open it.",
+         "type": "text"
+      }
+   ],
+   "diagnostics": null,
+   "model": "claude-haiku-5-5",
+   "role": "assistant",
+   "stop_details": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "type": "message",
+   "usage": {
+      "cache_creation": {
+         "ephemeral_1h_input_tokens": 0,
+         "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "inference_geo": "global",
+      "input_tokens": 499,
+      "output_tokens": 121,
+      "output_tokens_details": {
+         "thinking_tokens": 68
+      },
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "speed": "standard"
+   }
+}{
+   "id": "msg_011CgH9eGbyk3XVWA7z6x4uP",
+   "container": null,
+   "content": [
+      {
+         "citations": null,
+         "text": "You told me your name is Ivan, at the start of our conversation.",
+         "type": "text"
+      }
+   ],
+   "diagnostics": null,
+   "model": "claude-haiku-5-5",
+   "role": "assistant",
+   "stop_details": null,
+   "stop_reason": "end_turn",
+   "stop_sequence": null,
+   "type": "message",
+   "usage": {
+      "cache_creation": {
+         "ephemeral_1h_input_tokens": 0,
+         "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "inference_geo": "global",
+      "input_tokens": 628,
+      "output_tokens": 22,
+      "output_tokens_details": {
+         "thinking_tokens": 0
+      },
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "speed": "standard"
+   }
+}{
+   "id": "msg_011CgH9h4eEXqcGa4PxGHift",
+   "container": null,
+   "content": [
+      {
+         "id": "toolu_01KVMeyciQqR1imTjDVsXA6h",
+         "caller": {
+            "type": "direct"
+         },
+         "input": {
+            "path": "notes.txt"
+         },
+         "name": "read_file",
+         "type": "tool_use",
+         "toolset_name": null
+      }
+   ],
+   "diagnostics": null,
+   "model": "claude-haiku-5-5",
+   "role": "assistant",
+   "stop_details": null,
+   "stop_reason": "tool_use",
+   "stop_sequence": null,
+   "type": "message",
+   "usage": {
+      "cache_creation": {
+         "ephemeral_1h_input_tokens": 0,
+         "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "inference_geo": "global",
+      "input_tokens": 428,
+      "output_tokens": 51,
+      "output_tokens_details": {
+         "thinking_tokens": 0
+      },
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "speed": "standard"
+   }
+}{
+   "id": "msg_011CgHCfwqWqeXeUeDrqq9r8",
+   "container": null,
+   "content": [
+      {
+         "id": "toolu_01GTKJxk8kZY3zzBX6YjKARv",
+         "caller": {
+            "type": "direct"
+         },
+         "input": {
+            "path": "notes.txt"
+         },
+         "name": "read_file",
+         "type": "tool_use",
+         "toolset_name": null
+      }
+   ],
+   "diagnostics": null,
+   "model": "claude-haiku-5-5",
+   "role": "assistant",
+   "stop_details": null,
+   "stop_reason": "tool_use",
+   "stop_sequence": null,
+   "type": "message",
+   "usage": {
+      "cache_creation": {
+         "ephemeral_1h_input_tokens": 0,
+         "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "inference_geo": "global",
+      "input_tokens": 432,
+      "output_tokens": 51,
+      "output_tokens_details": {
+         "thinking_tokens": 0
+      },
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "speed": "standard"
+   }
+}{
+   "id": "msg_011CgHDJ9RnScfXVcfMqUZwV",
+   "container": null,
+   "content": [
+      {
+         "id": "toolu_011yjYmtiNs46bykj8hJ4R2C",
+         "caller": {
+            "type": "direct"
+         },
+         "input": {
+            "path": "notes.txt"
+         },
+         "name": "read_file",
+         "type": "tool_use",
+         "toolset_name": null
+      }
+   ],
+   "diagnostics": null,
+   "model": "claude-haiku-5-5",
+   "role": "assistant",
+   "stop_details": null,
+   "stop_reason": "tool_use",
+   "stop_sequence": null,
+   "type": "message",
+   "usage": {
+      "cache_creation": {
+         "ephemeral_1h_input_tokens": 0,
+         "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "inference_geo": "global",
+      "input_tokens": 432,
+      "output_tokens": 51,
+      "output_tokens_details": {
+         "thinking_tokens": 0
+      },
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "speed": "standard"
+   }
+}
