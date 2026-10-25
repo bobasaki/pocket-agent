@@ -1,3 +1,6 @@
 .env
 .venv
 messages.json
+num_dsa.py
+hello.py
+patchcheck.py
