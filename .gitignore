@@ -4,3 +4,5 @@ messages.json
 num_dsa.py
 hello.py
 patchcheck.py
+.claude/.validation_marker
+__pycache__/
